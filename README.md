@@ -1,4 +1,4 @@
-# crawl-up.com.hk
+# scrap yp.com.hk
 one-off crawling company info from yp.com.hk
 
 Using `BeautifulSoup` and `Requests`
